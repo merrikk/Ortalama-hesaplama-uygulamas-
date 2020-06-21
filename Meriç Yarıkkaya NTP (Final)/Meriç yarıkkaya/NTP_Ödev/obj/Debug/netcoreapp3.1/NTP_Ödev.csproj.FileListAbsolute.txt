@@ -1,0 +1,52 @@
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.exe
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.deps.json
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.json
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.dev.json
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csprojAssemblyReference.cache
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfoInputs.cache
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfo.cs
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.genruntimeconfig.cache
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.exe
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.deps.json
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.json
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.dev.json
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csprojAssemblyReference.cache
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfoInputs.cache
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfo.cs
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\Meriç Yarıkkaya\NTP_Ödev\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.genruntimeconfig.cache
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.exe
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.deps.json
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.json
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.dev.json
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csprojAssemblyReference.cache
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfoInputs.cache
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfo.cs
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\NTP_Ödev(Final)\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.genruntimeconfig.cache
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.exe
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.deps.json
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.json
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.runtimeconfig.dev.json
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\bin\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csprojAssemblyReference.cache
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfoInputs.cache
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.AssemblyInfo.cs
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.dll
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.pdb
+C:\Users\2001y\Desktop\projeler\Meriç Yarıkkaya NTP (Final)\Meriç yarıkkaya\NTP_Ödev\obj\Debug\netcoreapp3.1\NTP_Ödev.genruntimeconfig.cache
